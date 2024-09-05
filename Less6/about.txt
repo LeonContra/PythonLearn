@@ -1,0 +1,1 @@
+In lesson 6, it will be going through list and tuples as to what they are and how to use them.
