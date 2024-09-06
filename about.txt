@@ -1,0 +1,1 @@
+Lesson 7 is about learning what dictionaries and sets are, what they are used for, and examples on how to use them
