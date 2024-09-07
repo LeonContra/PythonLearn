@@ -1,0 +1,1 @@
+In Lesson 8, I will be going into what loops are, when they should be used, and some some examples on how to use them
