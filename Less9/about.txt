@@ -1,0 +1,1 @@
+Learn about the importance of functions, how to define a function, and how to call a function
