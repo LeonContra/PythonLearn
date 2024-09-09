@@ -1,0 +1,1 @@
+In lessons 11, it goes into the scope of variables and functions of python
