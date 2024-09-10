@@ -1,0 +1,6 @@
+In lesson 12, it goes into what closures are and their use 
+
+Definition of closures
+
+# Closure is a function having access to the scope of its parent
+# function after the parent function has returned
