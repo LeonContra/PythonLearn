@@ -1,0 +1,1 @@
+Lesson 16 is a student projects where we are to complete the assignment on our own. This required us to make a number guessing game and making a seperate file that let the user choose to play between the number guessing game and the RPS game
